@@ -50,7 +50,7 @@ This project addresses this core pain point: **wrapping Claude Code-built agents
 ### 1. Requirements
 
 - Python 3.12+
-- Claude CLI tool (must be installed and configured in PATH)
+- Claude Code
 - Virtual environment
 
 ### 2. Installation
