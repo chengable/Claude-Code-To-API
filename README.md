@@ -50,7 +50,7 @@ Claude Code已经不仅仅是Coding Agent，而是已经发展成为一个构建
 ### 1. 环境要求
 
 - Python 3.12+
-- Claude CLI工具 (需要安装并配置在PATH中)
+- Claude Code
 - 虚拟环境
 
 ### 2. 安装
