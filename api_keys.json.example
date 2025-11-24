@@ -1,0 +1,20 @@
+[
+  {
+    "key": "sk-demo-key-replace-this",
+    "max_requests": 100,
+    "period": "day",
+    "description": "演示Key - 请替换为实际的API密钥"
+  },
+  {
+    "key": "sk-prod-monthly-100",
+    "max_requests": 100,
+    "period": "month",
+    "description": "生产Key - 请替换为实际的API密钥"
+  },
+  {
+    "key": "sk-test-daily-5",
+    "max_requests": 5,
+    "period": "day",
+    "description": "测试Key - 请替换为实际的API密钥"
+  }
+]
